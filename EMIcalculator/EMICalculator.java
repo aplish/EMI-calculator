@@ -235,11 +235,5 @@ System.out.println("installmentNO\t\topeningBalance\t\tInterestComponent\t\tPrin
 		
 		
 	}
-
-
-
-
-
-
 	}
 
